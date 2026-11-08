@@ -5,7 +5,7 @@ checklists, contacts, notes, water tracking and time-since trackers in one
 window, backed by one SQLite database on your Mac. No account, no subscription
 and no cloud service. Two-way Apple Calendar sync is the only network feature.
 
-**Current release: 0.2** · macOS 12 or newer · Apple Silicon (M-series)
+**Current release: 0.2 (build 0.2.0-rc13)** · macOS 12 or newer · Apple Silicon (M-series)
 
 > 0.2 is an early release. Back up your data (section 8) before you rely on it.
 
@@ -32,7 +32,7 @@ That is the whole setup. The app creates its database on first launch.
 Open **https://github.com/Aeroso1/aerosol-erp/releases** and choose the newest
 release at the top. Download both files:
 
-- `Aerosol-ERP-<version>-macos-arm64.zip` — the app (about 21 MB)
+- `Aerosol-ERP-<version>-macos-arm64.zip` — the app (about 27 MB)
 - `SHA256SUMS` — checksums for the download
 
 Keep both files in the same folder (normally `~/Downloads`).
