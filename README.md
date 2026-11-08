@@ -11,6 +11,14 @@ and no cloud service. Two-way Apple Calendar sync is the only network feature.
 
 This repository contains **downloads only** — no source code.
 
+## Download
+
+**[Download Aerosol ERP 0.2.0-rc13 for Apple Silicon (.zip)](https://github.com/Aeroso1/aerosol-erp/releases/latest/download/Aerosol-ERP-0.2.0-rc13-macos-arm64.zip)**
+· [all releases](https://github.com/Aeroso1/aerosol-erp/releases)
+
+> Use the download link above or the **Releases** page. The green
+> **Code → Download ZIP** button downloads this README only, not the app.
+
 ## Quick start
 
 1. Download the newest release from **[Releases](https://github.com/Aeroso1/aerosol-erp/releases)**.
